@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfalculate",
+        "uuid": 38018499,
+        "checksum": "jf7p71"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
